@@ -1,2 +1,2 @@
-crafting Bench has what tools and weapons 0.1 
+crafting Bench has what? tools and weapons 0.1 
 0.2 .......
